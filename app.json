@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "AirAware",
+    "slug": "AirAware",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logosplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/e40e248a-8c6a-4ae3-b137-981d1ecfd376"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.aiceicecream.AirAware",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logoicon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e40e248a-8c6a-4ae3-b137-981d1ecfd376"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
+  }
+}

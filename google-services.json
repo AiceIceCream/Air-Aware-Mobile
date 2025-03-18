@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122452460144",
+    "project_id": "pushnotifications-9408c",
+    "storage_bucket": "pushnotifications-9408c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122452460144:android:29a252af479d6100956ab5",
+        "android_client_info": {
+          "package_name": "com.aiceicecream.AirAware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6468or1h5ISfz2-je2hZxX-5wH4uvrz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
